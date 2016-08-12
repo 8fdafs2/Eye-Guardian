@@ -1,5 +1,5 @@
-arc
-WpfApplication1
-.vs
-EyeGuardian/bin
-EyeGuardian/obj
+arc/
+WpfApplication1/
+.vs/
+[Bb]in/
+[Oo]bj/
